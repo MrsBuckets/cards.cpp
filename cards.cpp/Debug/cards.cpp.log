@@ -1,0 +1,9 @@
+﻿  cards.cpp
+d:\bartek\visual studio\projects\game_resources\cards.cpp\cards.cpp\cards.cpp(17): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+d:\bartek\visual studio\projects\game_resources\cards.cpp\cards.cpp\cards.cpp(17): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+d:\bartek\visual studio\projects\game_resources\cards.cpp\cards.cpp\cards.cpp(122): warning C4554: "&": sprawdź ustawienie pierwszeństwa operatora w poszukiwaniu możliwych błędów; użyj nawiasów, aby wyjaśnić ustawienie pierwszeństwa
+d:\bartek\visual studio\projects\game_resources\cards.cpp\cards.cpp\cards.cpp(193): warning C4477: „printf”: ciąg formatu „%x” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „card **”
+d:\bartek\visual studio\projects\game_resources\cards.cpp\cards.cpp\cards.cpp(216): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+d:\bartek\visual studio\projects\game_resources\cards.cpp\cards.cpp\cards.cpp(228): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+d:\bartek\visual studio\projects\game_resources\cards.cpp\cards.cpp\cards.cpp(614): warning C4715: "SDL_main”: niewszystkie ścieżki kodu zwracają wartość
+  cards.cpp.vcxproj -> D:\bartek\visual studio\Projects\game_resources\cards.cpp\Debug\cards.cpp.exe
